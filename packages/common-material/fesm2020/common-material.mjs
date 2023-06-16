@@ -64,7 +64,6 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.12", ngImpo
                 }]
         }], ctorParameters: function () { return []; } });
 
-;
 class CommonMaterialModule {
 }
 CommonMaterialModule.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.12", ngImport: i0, type: CommonMaterialModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule });
