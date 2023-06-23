@@ -1,6 +1,7 @@
 {
   "name": "common-material",
-  "version": "4.0.0",
+  "version": "0.0.1",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
