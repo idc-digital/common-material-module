@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, '../../coverage/common-material'),
+      dir: require('path').join(__dirname, '../../sonar.javascript.lcov.reportPaths'),
       subdir: '.',
       reporters: [
         { type: 'html' },
