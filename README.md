@@ -8,7 +8,7 @@ Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/m
 
 ![BuiltBy](https://img.shields.io/badge/TypeScript-Lovers-black.svg "img.shields.io")
 
-[![Synk](https://snyk.io/test/github/expressjs/express/4.x/badge.svg)
+![Synk](https://snyk.io/test/github/expressjs/express/4.x/badge.svg)
 
 ## Download and Installation
 
