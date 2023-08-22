@@ -6,6 +6,8 @@
 
 Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BakhtMunirUet_common-material-module&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=BakhtMunirUet_common-material-module)
 
+![BuiltBy](https://img.shields.io/badge/TypeScript-Lovers-black.svg "img.shields.io")
+
 ## Download and Installation
 
 ##### Installing via npm
