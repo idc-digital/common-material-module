@@ -10,6 +10,8 @@ Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/m
 
 ![Synk](https://snyk.io/test/github/expressjs/express/4.x/badge.svg)
 
+[![CI/CD](https://github.com/wnqueiroz/sonatype-nexus-repository-badge-generator/actions/workflows/ci-cd.yml/badge.svg?branch=main)](https://github.com/BakhtMunirUet/common-material-module/actions/workflows/sonar-cloud-scan.yml)
+
 ## Download and Installation
 
 ##### Installing via npm
