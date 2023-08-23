@@ -18,9 +18,9 @@ ng add @angular/material
 npm install common-material  --save
 ```
 
-## Getting started
+## Usage
 
-After installation of the package you need to add CommonMaterialModule where ever module you wants to utilize. Please find the below example:
+After installation of the package you need to add `CommonMaterialModule` where ever module you wants to utilize. Please find the below example:
 
 ```typescript
 import { NgModule } from "@angular/core";
@@ -36,3 +36,7 @@ import { CommonMaterialModule } from "common-material";
 })
 export class AppModule {}
 ```
+
+## License
+
+This project is licensed under the MIT license. See the <a href="./LICENSE"> LICENSE</a> file for more info.</p>
