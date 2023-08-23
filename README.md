@@ -41,6 +41,10 @@ import { CommonMaterialModule } from "common-material";
 export class AppModule {}
 ```
 
+## Release Process
+
+The release process has been manage from `pacakge.json` as well as from lerna, when ever code push using lerna it will ask for the version the same version added again.
+
 ## License
 
 This project is licensed under the MIT license. See the <a href="./LICENSE"> LICENSE</a> file for more info.</p>
