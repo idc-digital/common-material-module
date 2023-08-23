@@ -17,3 +17,22 @@ ng add @angular/material
 ```bash
 npm install common-material  --save
 ```
+
+## Getting started
+
+After installation of the package you need to add CommonMaterialModule where ever module you wants to utilize. Please find the below example:
+
+```typescript
+import { NgModule } from "@angular/core";
+import { BrowserModule } from "@angular/platform-browser";
+import { AppRoutingModule } from "./app-routing.module";
+import { AppComponent } from "./app.component";
+import { CommonMaterialModule } from "common-material";
+
+@NgModule({
+  declarations: [AppComponent],
+  imports: [BrowserModule, AppRoutingModule, CommonMaterialModule],
+  bootstrap: [AppComponent],
+})
+export class AppModule {}
+```
