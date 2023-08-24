@@ -51,6 +51,6 @@ This project is licensed under the MIT license. See the <a href="./LICENSE"> LIC
 
 ## Authors
 
-- \*\*[Bakht Munir](https://github.com/BakhtMunirUet?tab=repositories)
+- \\[Bakht Munir](https://github.com/BakhtMunirUet?tab=repositories)
 
-- \*\*[Vishal](https://github.com/vishalm?tab=repositories) -- Mentor
+- \\[Vishal](https://github.com/vishalm?tab=repositories) -- Mentor
