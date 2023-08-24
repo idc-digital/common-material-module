@@ -48,3 +48,9 @@ The release process has been manage from `pacakge.json` as well as from lerna, w
 ## License
 
 This project is licensed under the MIT license. See the <a href="./LICENSE"> LICENSE</a> file for more info.</p>
+
+## Authors
+
+- \*\*[Bakht Munir](https://github.com/BakhtMunirUet?tab=repositories)
+
+- \*\*[Vishal](https://github.com/vishalm?tab=repositories) -- Mentor
