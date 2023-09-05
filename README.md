@@ -41,6 +41,12 @@ import { CommonMaterialModule } from "common-material";
 export class AppModule {}
 ```
 
+### Demo
+
+Please find the below demo, how to used it:
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/wdDS5b7Tcl0)](https://youtu.be/wdDS5b7Tcl0)
+
 ## Release Process
 
 The release process has been manage from `pacakge.json` as well as from lerna, when ever code push using lerna it will ask for the version the same version added again.
@@ -54,5 +60,3 @@ This project is licensed under the MIT license. See the <a href="./LICENSE"> LIC
 - [Bakht Munir](https://github.com/BakhtMunirUet?tab=repositories)
 
 - [Vishal](https://github.com/vishalm?tab=repositories) -- **_Mentor_**
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/wdDS5b7Tcl0)](https://youtu.be/wdDS5b7Tcl0)
